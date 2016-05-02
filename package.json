@@ -4,7 +4,9 @@
   "dependencies": {
     "body-parser": "~1.0.2",
     "cors": "~2.2.0",
-    "express": "~4.0.0",
+    "express": "*",
+    "express-session": "*",
+    "keycloak-connect": "0.0.17",
     "fh-mbaas-api": "5.9.1",
     "request": "~2.40.0"
   },
