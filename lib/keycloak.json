@@ -1,8 +1,0 @@
-{
-  "realm": "rhmap",
-  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsxfCHkxPHOavHsGYaZwIMtZ8TivooL39/1XWTf4VErW5GB4JJRrse5IH06vnl0+2Yq5y7FDXRXx7x8/lPXDKbaLV8SznivkblYZyutUWRLbCU/78YMfEhZFdH4NKY/Q8AGZCaH0oHY7aTQOTSnNA0uwcmraz90Jldm+gDFfR5YdMtBu01gSXsJNyHwA9iEBrC/KLgnlHnjUK6F3Hp+421dii7g8PBm6E15VvD0cOtueGJFomd+5vK12xY41wvav3P4lMhT3YojQ7EN4uu/fdrEJDvLQLeYjx8O2FRlyiZHtEDXFq72jLs8lBLUmco5BKDaDRjoszIpO+ItOlVpCczwIDAQAB",
-  "bearer-only": true,
-  "auth-server-url": "https://keycloak-sblanc.rhcloud.com/auth",
-  "ssl-required": "external",
-  "resource": "helloworld-nodejs"
-}
